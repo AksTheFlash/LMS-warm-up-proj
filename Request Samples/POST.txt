@@ -1,0 +1,8 @@
+POST : https://u5k132c762.execute-api.us-east-1.amazonaws.com/LibLive/book
+
+JSON body : 
+{
+  "BookName": "AI",
+  "Publisher": "Pearson Education",
+  "Author": [ "George F. Luger" ]
+}
