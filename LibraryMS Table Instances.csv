@@ -1,0 +1,11 @@
+BookName (S),Author (L) ,Publisher (S)
+Artificial Intelligence,"[  { ""S"" : ""George F. Luger"" }]",Pearson Education
+Automotive Technology,"[  { ""S"" : ""James D. Halderman"" }]",Pearson Education
+Database Processing,"[  { ""S"" : ""David Kroenke"" }]",Pearson Education
+Fetch-22,"[  { ""S"" : ""Dav Pilkey"" }]",Scholastic
+Introduction to Algorithms,"[  { ""S"" : ""Thomas H. Cormen"" },  { ""S"" : ""Charles E. Leiserson"" },  { ""S"" : ""Ronald Rivest"" },  { ""S"" : ""Clifford Stein"" }]",MIT Press
+Introduction to Quantum Mechanics,"[  { ""S"" : ""David J. Griffiths"" }]",Pearson Education
+Programming Arduino,"[  { ""S"" : ""Simon Monk"" }]",McGraw-Hill Education
+Robotics,"[  { ""S"" : ""C. S. George Lee"" },  { ""S"" : ""King-Sun Fu"" },  { ""S"" : ""Rafael C. Gonzalez"" }]",McGraw-Hill Education
+The Paperboy,"[  { ""S"" : ""Dav Pilkey"" }]",Scholastic
+Vector mechanics for engineers,"[  { ""S"" : ""Ferdinand P. Beer"" }]",McGraw-Hill Education
