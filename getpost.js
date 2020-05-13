@@ -1,4 +1,4 @@
-//Event Handler for AWS Lambda Function 
+//Event Handler for Lambda Function 
 
 var AWS = require('aws-sdk');
 
