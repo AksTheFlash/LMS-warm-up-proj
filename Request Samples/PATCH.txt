@@ -1,0 +1,8 @@
+PATCH : https://u5k132c762.execute-api.us-east-1.amazonaws.com/LibLive/book
+
+JSON body :
+{
+  "BookName": "Artificial Intelligence",
+  "Publisher": "PE",
+  "Author": [ "GFL" ]
+} 
