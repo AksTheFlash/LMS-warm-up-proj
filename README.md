@@ -1,4 +1,4 @@
-# LMS-warm-up-proj
+# LMS-proj
 ### A REST API for a Library Management System using AWS API Gateway, Lambda and DynamoDB.
 
 Created four HTTP requests - **GET, POST, PATCH, DELETE** in API Gateway to trigger AWS Lambda Function. 
